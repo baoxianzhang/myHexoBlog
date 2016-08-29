@@ -1,0 +1,11 @@
+#+TITLE: my first org-octopress
+#+DATE: 2016-08-29
+#+SETUPFILE: ~/bxgithub/myHexoBlog/setupfile.org
+#+JEKYLL_LAYOUT: post
+#+JEKYLL_CATEGORIES: 
+#+JEKYLL_TAGS: 
+#+JEKYLL_PUBLISHED: true
+
+* My first octopress post. 
+Good day!
+

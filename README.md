@@ -10,6 +10,16 @@ sudo apt-get install git
 ### Hexo
 npm instal -g hexo-cli
 
+### Others
+sudo apt-get install rake
+
+sudo apt-get install rails
+
+sudo gem install rails
+
+rails new . #Usage: rails new APP_PATH
+
+sudo apt-get install libsqlite3-dev
 
 ## Usage
 hexo g # 或者hexo generate
