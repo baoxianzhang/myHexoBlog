@@ -7,7 +7,7 @@ title: Hello baoxianzhang
 subtitle:
 description:
 author: baoxianzhang
-language: english
+language: zh-CN
 timezone:
 
 # URL
@@ -63,7 +63,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: maupassant
+theme: next
     # maupassant
     #next
     #yilia
@@ -72,18 +72,18 @@ theme: maupassant
 
 # Extensions
 Plugins:
-- hexo-generator-feed
-- hexo-generator-sitemap
+    #- hexo-generator-feed
+    #- hexo-generator-sitemap
 
 #Feed Atom
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-
-#sitemap
-sitemap:
-  path: sitemap.xml
+#feed:
+#  type: atom
+#  path: atom.xml
+#  limit: 20
+#
+##sitemap
+#sitemap:
+#  path: sitemap.xml
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
